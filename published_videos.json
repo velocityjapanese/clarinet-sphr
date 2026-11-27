@@ -146,5 +146,42 @@
       }
     ],
     "timestamp": "2026-11-26T20:15:15.787809+00:00"
+  },
+  {
+    "video_file": "ClarinetSpheric_15min_20261127_195112.mp4",
+    "youtube_id": "caWcTVBtbEY",
+    "youtube_url": "https://youtu.be/caWcTVBtbEY",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Clarinet & Piano | Meditation beneath the Paper Lanterns",
+    "piece_title": "Meditation beneath the Paper Lanterns",
+    "seed": 1685157243,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Radiance"
+      },
+      {
+        "time": "02:57",
+        "title": "II. Horizon"
+      },
+      {
+        "time": "05:34",
+        "title": "III. Reverie"
+      },
+      {
+        "time": "07:58",
+        "title": "IV. Return"
+      },
+      {
+        "time": "10:45",
+        "title": "V. Cascade"
+      },
+      {
+        "time": "12:51",
+        "title": "VI. Ascent"
+      }
+    ],
+    "timestamp": "2026-11-27T20:05:32.931625+00:00"
   }
 ]
